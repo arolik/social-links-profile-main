@@ -413,7 +413,7 @@ body {
 }
 
 .info-name {
-    margin: 2rem 0 0.5rem 0;
+    margin: 1.5rem 0 0.5rem 0;
 }
 
 .info-location {
@@ -436,7 +436,7 @@ body {
 
 .link-container {
     min-width: 100%;
-    padding: 0.8rem 0;
+    padding: 1rem 0;
     background-color: var(--grey-700);
     border-radius: var(--radi-item);
     cursor: pointer;
